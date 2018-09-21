@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommandLineParser" Version="2.3.0" />
+    <PackageReference Include="Kros.Utils" Version="1.8.0" />
+    <PackageReference Include="Magick.NET-Q16-AnyCPU" Version="7.7.0" />
+    <PackageReference Include="ShellProgressBar" Version="4.2.0" />
+  </ItemGroup>
+
+</Project>
